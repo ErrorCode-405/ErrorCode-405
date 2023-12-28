@@ -4,7 +4,7 @@
 - 🚀 Ich bin ein Softwareentwickler, der versehentlich in eine Tastatur gefallen ist und seitdem Code schreibt.
 - 🌱 Ich Arbeite derzeit bei der Deutschen Telekom weil ich nicht genug Meme darüber verstanden habe.
 - 🎯 Lebensziel: Einen `Hello World` in jeder Programmiersprache schreiben.
-- 🐞 Lieblingsbug: `; & das , vergessen und zwei Stunden dafür gebraucht, ihn zu finden. :D
+- 🐞 Lieblingsbug: `; & ,` vergessen und zwei Stunden dafür gebraucht, ihn zu finden. :D
 
 ## Meine Statistiken
 ![Meine GitHub-Statistiken sollten noch Leer sein:D](https://github-readme-stats.vercel.app/api?username=ErrorCode-405&show_icons=true)
@@ -15,9 +15,8 @@
 - 🍕 Den ultimativen Code für die perfekte Pizza entschlüsseln.
 
 ## Kontaktiere mich
-- 📧 Meine Email: [Ihre Email]
-- 💼 LinkedIn: [Ihr LinkedIn Profil]
-- 🐦 Twitter: [Ihr Twitter Handle]
+- 📧 Meine Email: [Gibbet nich :D]
+- 🐦 Discord: [kein_keks_4you]
 
 ## Zufälliger Witz
 > Warum benutzen Programmierer keine dunklen Themes? 
