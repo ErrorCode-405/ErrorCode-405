@@ -16,7 +16,7 @@
 
 ## Kontaktiere mich
 - 📧 Meine Email: [Gibbet nich :D]
-- 🐦 Discord: [kein_keks_4you]
+- 🐦 Discord: [.cyber.vortex.]
 
 ## Zufälliger Witz
 > Warum benutzen Programmierer keine dunklen Themes? 
